@@ -1,0 +1,58 @@
+Installation of python 3.6.8
+    IDLE3.6.8
+    
+Object Oriented Program(oops):
+- OOPS
+- class
+- Object
+- Constructor
+- inheritence
+- Packages and Modules using oops
+
+
+Class: Collection of variables and method.
+=====
+
+different between function and method?
+
+Function :  Collection of statemants. Functions uses are reusable of code
+
+Method : function inside class
+
+- Syntax : class class_name(Hello):
+                var
+                methods
+
+* Rules - First letter should be a capital.
+
+
+
+Object: Instance of  class
+        - Blueprint of class
+        - syntax: objname  = classname
+        - example : obj=Hello
+
+oop:
+- program is divided into objects
+- makes use of Acsess Modiffiers - public,private,protected
+- it is more secure
+- it support inheritances
+
+pop:
+- program is divided into functions
+- Doesn't use Acsess Modiffiers
+- it is less secure
+- not support inheritances
+
+Inheritance:
+    Acquiring properties of one class to another class
+    - syntax :
+        class subClassName(Parentclass1[,parentclass2,.....]):
+            functions
+
+        class_suite
+
+        
+
+
+
