@@ -1,0 +1,1 @@
+# Django_Batch_7_APSSDC
